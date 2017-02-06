@@ -1,0 +1,6 @@
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\bin\Debug\HTTPTest.exe.config
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\bin\Debug\HTTPTest.exe
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\bin\Debug\HTTPTest.pdb
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\obj\Debug\HTTPTest.csprojResolveAssemblyReference.cache
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\obj\Debug\HTTPTest.exe
+C:\Users\daniel.berg\Documents\HTTPTest\HTTPTest\obj\Debug\HTTPTest.pdb
